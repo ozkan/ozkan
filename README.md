@@ -1,6 +1,6 @@
 
 
-![](https://github.com/ozkan/ozkan/blob/master/output.gif)
+![](https://github.com/ozkan/ozkan/blob/master/ozkancelik.gif)
 
 
 <!--
