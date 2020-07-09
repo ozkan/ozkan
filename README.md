@@ -1,4 +1,4 @@
-### Hi there 👋
+
 
 ![](https://github.com/ozkan/ozkan/blob/master/output.gif)
 
