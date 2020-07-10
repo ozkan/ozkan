@@ -1,7 +1,9 @@
 
 
 <p align="center">
-  <img src="https://github.com/ozkan/ozkan/blob/master/ozkancelik.gif" />
+  <a href="https://github.com/ozkan">
+    <img src="https://github.com/ozkan/ozkan/blob/master/ozkancelik.gif" />
+  </a>
 </p>
 
 
