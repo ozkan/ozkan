@@ -2,7 +2,7 @@
 
 <p align="center">
   <a href="https://github.com/ozkan">
-    <img src="https://github.com/ozkan/ozkan/blob/master/keyboards.png" />
+    <img src="https://github.com/ozkan/ozkan/blob/master/keyboards1.png" />
   </a>
 </p>
 
